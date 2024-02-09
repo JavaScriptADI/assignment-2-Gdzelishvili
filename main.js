@@ -1,6 +1,6 @@
 // Write your code here
-console.log(parseInt(Math.random() * 250));
-2 == "2; // ეს თუ შეცდომა არა და სპეციალურად აკლია მეორე ფრჩხილი დააერორეს ისე წესით true მოგვცემს პასუხს
+console.log(parseInt(50 + Math.random() * 200)); // es 50dan rom daiwyos randomi da 250 mde ciprebshi gacherdes
+2 == "2"; // ეს თუ შეცდომა არა და სპეციალურად აკლია მეორე ფრჩხილი დააერორეს ისე წესით true მოგვცემს პასუხს
 2 === 2; //აქ true
 10 % 3 === 0; //აქ false
 10 % 3 === 1; //აქ true
