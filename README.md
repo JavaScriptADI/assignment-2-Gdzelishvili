@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/WfcMRFJ5)
 # Homework2
 Write down what the following statements will return. Try to figure this out before putting the commands terminal.
 
